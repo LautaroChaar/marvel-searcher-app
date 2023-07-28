@@ -11,7 +11,9 @@ https://marvel-searcher-app-sepia.vercel.app/
 ## Applied technolologies:
 
 1- React
+
 2- React Router Dom
+
 3- Styled-Components
 
 # Search options:
